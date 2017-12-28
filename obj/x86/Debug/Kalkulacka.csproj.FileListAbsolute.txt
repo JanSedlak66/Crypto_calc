@@ -1,0 +1,13 @@
+D:\bastly\csharp\kalkulacka\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe
+D:\bastly\csharp\kalkulacka\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.pdb
+D:\bastly\csharp\kalkulacka\Kalkulacka\Kalkulacka\obj\x86\Debug\Kalkulacka.Properties.Resources.resources
+D:\bastly\csharp\kalkulacka\Kalkulacka\Kalkulacka\obj\x86\Debug\Kalkulacka.csproj.GenerateResource.Cache
+D:\bastly\csharp\kalkulacka\Kalkulacka\Kalkulacka\obj\x86\Debug\Kalkulacka.exe
+D:\bastly\csharp\kalkulacka\Kalkulacka\Kalkulacka\obj\x86\Debug\Kalkulacka.pdb
+D:\bastly\csharp\kalkulacka\Kalkulacka\Kalkulacka\obj\x86\Debug\Kalkulacka.Hlavni_okno.resources
+D:\bastly\csharp\kalkulacka\Kalkulacka\Kalkulacka\obj\x86\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+D:\bastly\csharp\kalkulacka\Kalkulacka\Kalkulacka\bin\Debug\Antlr3.Runtime.dll
+D:\bastly\csharp\kalkulacka\Kalkulacka\Kalkulacka\bin\Debug\NCalc.dll
+D:\bastly\csharp\kalkulacka\Kalkulacka\Kalkulacka\obj\x86\Debug\Kalkulacka.AboutBox1.resources
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\obj\x86\Debug\Kalkulacka.exe
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\obj\x86\Debug\Kalkulacka.pdb

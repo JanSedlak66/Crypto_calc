@@ -1,0 +1,10 @@
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\obj\x86\Release\Kalkulacka_Artur.csproj.GenerateResource.Cache
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\obj\x86\Release\Kalkulacka_Artur.csprojResolveAssemblyReference.cache
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\bin\Release\Cryptocurrency _calc.exe
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\bin\Release\Cryptocurrency _calc.pdb
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\obj\x86\Release\Crypto_calc.Chart_win.resources
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\obj\x86\Release\Crypto_calc.Main_win.resources
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\obj\x86\Release\Crypto_calc.Properties.Resources.resources
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\obj\x86\Release\Cryptocurrency _calc.exe
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\obj\x86\Release\Cryptocurrency _calc.pdb
+D:\bastly\csharp\kalkulacka\Kalkulacka - Artur\Kalkulacka\obj\x86\Release\Crypto_calc.AboutBox1.resources

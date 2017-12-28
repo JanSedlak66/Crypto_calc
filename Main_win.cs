@@ -677,7 +677,7 @@ namespace Crypto_calc
 
         }
 
-        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             AboutBox1 aboutWindow = new AboutBox1();
             aboutWindow.Show();

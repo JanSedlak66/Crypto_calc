@@ -22,8 +22,8 @@ namespace Crypto_calc
         {
             myMain_win = a;
             InitializeComponent();
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
+            //this.MaximizeBox = false;
+            //this.MinimizeBox = false;
             index_data = 0;
             memory = new List<double>();
 
@@ -80,6 +80,12 @@ namespace Crypto_calc
 
             this.FormClosed += window_Close; // the chart window is only hide if UserClose window
 
+            this.SizeChanged += window_Resize; // the chart window is only hide if UserClose window
+        }
+
+        private void window_Resize(object sender, EventArgs e)
+        {
+            this.chart1.Size = new Size(this.Size.Width,this.Size.Height); ;
         }
 
         public void putData(double[] values){

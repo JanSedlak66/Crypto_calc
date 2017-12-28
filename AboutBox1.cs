@@ -29,7 +29,7 @@ namespace Crypto_calc
             textBoxDescription.AppendText("EMC2:" + "\t" + "EXPuGrKqKs1cDFqiJhDqgwx5DDpPjbeWb9" + "\n");
 
             textBoxDescription.AppendText("Qestions ? Contact me @" + "\n");
-            textBoxDescription.AppendText("https://github.com/JanSedlak66/crypto_calc" + "\n");
+            textBoxDescription.AppendText("https://github.com/JanSedlak66/Crypto_calc" + "\n");
             textBoxDescription.AppendText("https://www.linkedin.com/in/jan-sedlak-889a5314a/");
             
         }

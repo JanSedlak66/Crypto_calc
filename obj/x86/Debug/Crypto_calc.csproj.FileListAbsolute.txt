@@ -1,0 +1,12 @@
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\bin\Debug\Cryptocurrency _calc.exe
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\bin\Debug\Cryptocurrency _calc.pdb
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\bin\Debug\Newtonsoft.Json.dll
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\bin\Debug\Newtonsoft.Json.pdb
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\bin\Debug\Newtonsoft.Json.xml
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\obj\x86\Debug\Crypto_calc.AboutBox1.resources
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\obj\x86\Debug\Crypto_calc.Chart_win.resources
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\obj\x86\Debug\Crypto_calc.Main_win.resources
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\obj\x86\Debug\Crypto_calc.Properties.Resources.resources
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\obj\x86\Debug\Crypto_calc.csproj.GenerateResource.Cache
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\obj\x86\Debug\Cryptocurrency _calc.exe
+D:\bastly\csharp\kalkulacka\Crypto_calc\Crypto_calc\obj\x86\Debug\Cryptocurrency _calc.pdb

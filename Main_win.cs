@@ -679,7 +679,7 @@ namespace Crypto_calc
 
         private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            AboutBox1 aboutWindow = new AboutBox1();
+            AboutBox aboutWindow = new AboutBox();
             aboutWindow.Show();
         }
 

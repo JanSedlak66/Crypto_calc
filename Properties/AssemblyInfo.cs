@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Cryptocurrency Calculator")]
-[assembly: AssemblyDescription("Calculator may help with quick conversion of BTC, USD and CZK. The calculator indicates hourly ticket last price of popular exchanges.")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Cryptocurrency Calculator")]

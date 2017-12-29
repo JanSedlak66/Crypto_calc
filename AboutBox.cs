@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace Crypto_calc
 {
-    partial class AboutBox1 : Form
+    partial class AboutBox : Form
     {
-        public AboutBox1()
+        public AboutBox()
         {
             InitializeComponent();
             this.Text = String.Format("About {0}", AssemblyTitle);
@@ -20,6 +20,7 @@ namespace Crypto_calc
             this.labelCompanyName.Text = AssemblyCompany;
             this.textBoxDescription.Text = AssemblyDescription;
 
+            textBoxDescription.AppendText("Calculator may help with quick conversion of btc and USD. The calculator indicates hourly ticket last price of popular exchanges. ");
             textBoxDescription.AppendText("\n");
             textBoxDescription.AppendText("Donate:"+"\n");
             textBoxDescription.AppendText("BTC:" + "\t" + "1DhjTmRsQN2fBNSBArMmuvdaWDnxLBpedu" + "\n");

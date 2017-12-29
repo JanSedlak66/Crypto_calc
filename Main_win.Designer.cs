@@ -222,7 +222,7 @@
             // 
             this.tOPWinToolStripMenuItem.CheckOnClick = true;
             this.tOPWinToolStripMenuItem.Name = "tOPWinToolStripMenuItem";
-            this.tOPWinToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.tOPWinToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.tOPWinToolStripMenuItem.Text = "Always TOP";
             this.tOPWinToolStripMenuItem.Click += new System.EventHandler(this.tOPWinToolStripMenuItem_Click);
             // 
@@ -234,7 +234,7 @@
             this.sToolStripMenuItem5s,
             this.sToolStripMenuItem1s});
             this.timer2sToolStripMenuItem.Name = "timer2sToolStripMenuItem";
-            this.timer2sToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.timer2sToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.timer2sToolStripMenuItem.Text = "Refresh rate";
             // 
             // sToolStripMenuItem30s
